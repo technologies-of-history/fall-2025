@@ -1,0 +1,9 @@
+baseURL = 'https://technologiesofhistory.github.io/'
+languageCode = 'en-us'
+title = 'Technologies of History'
+theme = "hugo-book"
+BookTOC = true
+BookSection = 'docs'
+BookLogo = 'cuneiform.png'
+enableGitInfo = true
+BookDateFormat = 'Jan 2, 2006'
