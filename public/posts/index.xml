@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Student Work on Technologies of History</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Student Work on Technologies of History</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome to our course!</title>
+      <link>http://localhost:1313/posts/2024-11-04-welcome-to-our-course/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2024-11-04-welcome-to-our-course/</guid>
+      <description>&lt;p&gt;This is a test post to see how posts are rendered on the&#xA;course blog.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
