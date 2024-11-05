@@ -1,6 +1,5 @@
 ---
 layout: page
-bookTOC: false
 draft: false
 title: Digital Tools 1
 ---
@@ -100,10 +99,6 @@ __If you're writing your posts in a text editor:__
 4. Navigate to the **posts** folder and click **Add File** and then **Upload Files** and either drag and drop or select your Markdown file to upload. 
 5. Then **Commit** that file to your repository as you would one authored directly in GitHub.
 
-4. Upload your post into the **_posts** folder of the new branch. 
-5. **Commit** your changes, and create a **Pull Request** to merge it with the **master** branch of our repository. **Pay attention** and be sure you select the right **head** for your request.
-
-
 
 ## Step 7: Create a pull request
 
@@ -113,7 +108,7 @@ site so that it can be served to the website.
 
 1. In the menu at the top of your repository, click **Pull requests**. 
 2. Click the green button **New pull request**. 
-3. You'll now see a gray box at the top that shows you the **base** repository you'll be sending your changes to (digital-history/digital-history.github.io), and the **head** repository, which is yours **(digital-history/lastname-dt1)**. NOTE: Be sure that yours is the **head** and the main branch is the **base**.
+3. You'll now see a gray box at the top that shows you the **base** repository you'll be sending your changes to and the **head** repository, which is yours. NOTE: Be sure that yours is the **head** and the main branch is the **base**.
 4. Name your pull request **LastName_dt1** and then click **Create pull request**.
 
 Ok, that's it! You've written a blog post in Markdown and followed the standard GitHub workflow to send it to our class site. Pat yourself on the back, and know that you'll do it all over again for the next three assignments.
