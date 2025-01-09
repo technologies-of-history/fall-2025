@@ -4,6 +4,7 @@
     <h2>
       <a href="{{ .RelPermalink }}">{{ partial "docs/title.html" . }}</a>
     </h2>
+    <p>By {{if .Params.author}}{{.Params.author}}{{else}}{{ .Site.Params.author }}{{end}}<br></p>
     {{ partial "docs/post-meta" . }}
     <div class="book-post-content">
       {{- .Summary -}}
