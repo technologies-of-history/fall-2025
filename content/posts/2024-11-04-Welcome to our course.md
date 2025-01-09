@@ -2,8 +2,8 @@
 layout: post
 bookTOC: false
 draft: false
-title: Welcome to our course!
+author: Melissa Reynolds
+title: Welcome to Technologies of History!
 ---
 
-This is a test post to see how posts are rendered on the 
-course blog.
+Over the course of the semester, students will post their digital tools assignments to this blog. Check back to see their progress!
