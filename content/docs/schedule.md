@@ -14,6 +14,8 @@ title: Course Schedule
 ### Readings
 - Eileen Gardiner and Ronald G. Musto, _The Digital Humanities: A Primer for Students and Scholars_, (New York: Cambridge University Press, 2015). pp. 1–14.
 - Ann Burdick et al., “A Short Guide to Digital_Humanities,” in _Digital_Humanities_ (Cambridge, 2012).
+- Watch this [video](https://youtu.be/Ko6J9v1C9zE?si=8xs3kISEhgabayC2) from BBC4 Radio explaining the Canadian communication theorist Marshall McLuhan's theory: "The medium is the message."
+- Next, watch this [video](https://youtu.be/VsZQMaN5pYc?si=pn23R9OPoRpLxp0o) from the MIT Media Lab explaining how a research team used big data scraped from Wikipedia to test McLuhan's theory.
 
 ### Lab Work
 - Intro to Markdown
@@ -60,6 +62,7 @@ title: Course Schedule
 ---
 
 ### Readings
+- Matthew D. C. Larsen and Mark Letteney, ["Christians and the Codex: Generic Materiality and Early Gospel Traditions."](https://muse-jhu-edu.ezproxy.tcu.edu/article/734249) _Journal of Early Christian Studies_ 27, no. 3 (Fall 2019): 383–415. 
 - Christopher de Hamel, _Meetings with Remarkable Manuscripts: Twelve Journeys into the Medieval World_ (New York, 2016), pp. 52–94. [posted on canvas]
 - OPTIONAL: View the [short series of videos](https://youtu.be/aEPpURAIsW4) demonstrating the preparation of a medieval manuscript from the British Library, linked to our Canvas site
 
@@ -163,12 +166,12 @@ title: Course Schedule
 - Visit [The First Family of Radio](http://www.americanradioworks.org/documentaries/roosevelts/) site and listen to FDR’s fireside chat on “The WPA and Social Security,” from April 28, 1935
 - Read the _Programming Historian_'s[Editing Audio with Audacity](https://programminghistorian.org/en/lessons/editing-audio-with-audacity)
 
+
 ## Week 14: Democracy in the Digital Age
 ---
 
 ### Readings
-- Nathaniel Persily, “Can Democracy Survive the Internet?” _Journal of Democracy_ 28 (April 2017): 63–76. [posted on canvas]
-- Matthew Hindman, _The Internet Trap: How the Digital Economy Builds Monopolies and Undermines Democracy_ (Princeton: Princeton University Press, 2018), Ch. 8.
+- Zachary Gershberg and Sean Illing, _The Paradox of Democracy: Free Speech, Open Media, and Perilous Persuasion_ (Chicago: University of Chicago Press, 2022), TBD.
 
 ### Lab Work
 - Read Axel Bruns, [“The Library of Congress Twitter Archive: A Failure of Historic Proportions,”](https://medium.com/dmrc-at-large/the-library-of-congress-twitter-archive-a-failure-of-historic-proportions-6dc1c3bc9e2c) Medium, January 1, 2018.
